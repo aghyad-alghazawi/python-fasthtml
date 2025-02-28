@@ -5,10 +5,6 @@ A simple, real-time guestbook application built and deployed with:
 - [FastHTML](https://fastht.ml): A Python framework for building HTML applications
 - [HTMX](https://htmx.org): For seamless AJAX requests and updates
 
-<div align="center">
-  <img src="assets/screenshot.png" width="75%"/>
-</div>
-
 ## Setup
 
 1. Fork the Repo
